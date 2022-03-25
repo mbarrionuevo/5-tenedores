@@ -1,2 +1,2 @@
 # 5-tenedores
-react-native example
+react-native app
